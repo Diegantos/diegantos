@@ -8,7 +8,7 @@
 
 - 👨‍💻 Todos mis proyectos están en [diegantos.com](https://diegantos.com)
 
-- 📫 Puedes contactarme **info@diegantos.com**
+- 📫 Puedes contactarme en **info@diegantos.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
