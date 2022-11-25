@@ -1,5 +1,4 @@
-<!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy Diego Santos</h1>
+<h1 align="center">Hola 👋, soy Diego Santos</h1>
 <h3 align="center">FRONT-END DEVELOPER</h3>
 
 - 🔭 Actualmente trabajo en [mi porfolio](https://diegantos.com)
