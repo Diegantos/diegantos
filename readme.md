@@ -6,7 +6,7 @@
 
 - 🌱 Estoy estudiando **HTML, CSS y JAVASCRIPT**
 
-- 👨‍💻 Todo mis proyectos están en [diegantos.com](https://diegantos.com)
+- 👨‍💻 Todos mis proyectos están en [diegantos.com](https://diegantos.com)
 
 - 📫 Puedes contactarme **info@diegantos.com**
 
