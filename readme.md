@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente trabajo en [mi porfolio](https://diegantos.com)
 
-- 🌱 Estoy estudiando **HTML, CSS y JAVASCRIPT**
+- 🌱 Estoy estudiando **HTML, CSS, JAVASCRIPT y ANDROID**
 
 - 👨‍💻 Todos mis proyectos están en [diegantos.com](https://diegantos.com)
 
