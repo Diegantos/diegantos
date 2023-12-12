@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, soy Diego Santos</h1>
 <h3 align="center">FRONT-END DEVELOPER</h3>
 
-- 🔭 Actualmente trabajo en [mi porfolio](https://diegantos.com)
+- 👨‍💻 Visita mi portfolio [mi porfolio](https://diegantos.com)
 
-- 🌱 Estoy estudiando **HTML, CSS, JAVASCRIPT y ANDROID**
-
-- 👨‍💻 Todos mis proyectos están en [diegantos.com](https://diegantos.com)
+- 👁 Puedes ver mi perfil en [Linkedin](https://www.linkedin.com/in/diegantos/)
 
 - 📫 Puedes contactarme en **info@diegantos.com**
 
